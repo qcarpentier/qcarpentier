@@ -60,3 +60,8 @@ Beside coding, I have a **serious passion for education**. I'm an IT Teacher and
 
 </details>
 
+
+---
+
+### 🎧 Spotify Playing 
+[<img src="https://spotify-readme.qcarpentier.vercel.app/api/spotify-playing" alt="Quentin Carpentier Spotify Playing" width="400" />](https://open.spotify.com/user/1180028189)
