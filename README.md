@@ -1,6 +1,6 @@
 <img src="https://github.com/qcarpentier/qcarpentier/blob/master/assets/qcarpentier-github-banner.png?raw=true">
 
-Welcome to my GitHub! I'm Quentin, a **technology enthusiast** who is always passionate about computer science. I'm [Full Stack Developer](https://qcarpentier.dev) with 2+ years of experience building robust software solutions for clients.
+Welcome to my GitHub! I'm Quentin, a **technology enthusiast** who is always passionate about computer science. I'm [Full Stack Developer](https://qcarpentier.com) with 2+ years of experience building robust software solutions for clients.
 
 Beside coding, I have a **serious passion for education**. I'm an IT Teacher and I co-founded a [CoderDojo](https://www.facebook.com/CoderDojoMons).
 
