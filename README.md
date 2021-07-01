@@ -46,7 +46,7 @@ Beside coding, I have a **serious passion for education**. I'm an IT Teacher and
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/quentincarpentier/">quentincarpentier</a>
 - Twitter: [carpentier_q](https://twitter.com/carpentier_q)
-- Website: [https://qcarpentier.dev](https://qcarpentier.dev)
+- Website: [https://qcarpentier.com](https://qcarpentier.com)
 - Discord: [Loosha#2248]()
 
 
