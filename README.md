@@ -34,10 +34,10 @@ In addition to teaching, I’ve returned to academia, pursuing a **Computer Scie
 
 
 ## 🎯 Goals for 2024
-Expand my expertise in cloud computing and microservices architecture
-Contribute more actively to open-source projects and tech communities
-Explore AI/ML integration into full stack applications
-Continue pushing the boundaries of ultra-endurance in my personal life, participating in more 160+km races (100 miles)
+- Expand my expertise in cloud computing and microservices architecture
+- Contribute more actively to open-source projects and tech communities
+- Explore AI/ML integration into full stack applications
+- Continue pushing the boundaries of ultra-endurance in my personal life, participating in more 160+km races (100 miles)
 
 ## 🌍 Fun Facts
 - Native French speaker, passionate about communication and teaching 🧑‍🏫
