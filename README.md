@@ -1,67 +1,48 @@
 <img src="https://github.com/qcarpentier/qcarpentier/blob/master/assets/qcarpentier-github-banner.png?raw=true">
 
-Welcome to my GitHub! I'm Quentin, a **technology enthusiast** who is always passionate about computer science. I'm [Full Stack Developer](https://qcarpentier.com) with 2+ years of experience building robust software solutions for clients.
+# 👋 Welcome to my GitHub !
 
-Beside coding, I have a **serious passion for education**. I'm an IT Teacher and I co-founded a [CoderDojo](https://www.facebook.com/CoderDojoMons).
+I'm Quentin Carpentier, a [**Full Stack Developer**](https://qcarpentier.com) with over 8 years of experience delivering innovative and high-performance software solutions. I’m currently an **IT teacher** at Haute École Condorcet Mons (Belgium), where I teach programming and IT to higher education students. I hold a **CAP** (Certificat d'Aptitudes Pédagogiques), equipping me with the skills to guide and mentor the next generation of developers.
 
-### ⚡ Relevant achievements
-- Admitted to the <a href="https://moveup-festival.digital-attraxion.com/">**_MoveUp Festival_**</a>, a green startup boostcamp (July 2019)
-- Awarded the **_Most Daring Project_** at *Kiss Your Teacher GameJam* (October 2018)
-- Awarded the **_Public Prize_** at *Tune It Hackathon* (April 2017)
-- Awarded the **_Jury Prize_** at *Make your Office great again Hackathon* (April 2016)
+In addition to teaching, I’ve returned to academia, pursuing a **Computer Science degree** at **UMons** via an evening schedule to deepen my technical expertise while continuing my career. When I’m not coding or teaching, I’m pushing my physical limits as an **ultra-trail runner**, frequently competing in 100+ km races.
 
-### 👩‍💻 I'm currently working with
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  Typescript
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> GraphQL & Apollo
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> NodeJS
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> MongoDB
+## ⚡ Key Achievements
+- IT Teacher educating higher education students in programming and computer science (2024)
+- Computer Science Student at UMons via an evening program, in addition to my teaching role (2024)
+- Holder of the Certificat d'Aptitudes Pédagogiques (CAP), demonstrating expertise in teaching methodologies (2021)
+- Co-founder of CoderDojo Mons, empowering young people to explore coding and technology (2016 to 2019)
+- Selected for the MoveUp Festival, a green startup boostcamp (July 2019)
+- Winner of the Most Daring Project at Kiss Your Teacher GameJam (October 2018)
+- Winner of the Public Prize at Tune It Hackathon (April 2017)
+- Winner of the Jury Prize at Make Your Office Great Again Hackathon (April 2016)
 
-### ⭐️ Other Languages & Tools
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> Visual Studio Code
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML5
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS3
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> Javascript
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> SASS
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> TailwindCSS
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> Vue
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"> .NET
-- <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"> C (IoT)
+## 💻 Technologies & Tools I Use
+### Core Technologies
+- React – Building modern, dynamic user interfaces
+- Typescript – Strongly typed JavaScript for better scalability and maintainability
+- NodeJS – Backend development with scalable and efficient server-side applications
+- Python – Versatile programming language used for web development, data science, automation, and AI/ML projects
 
+### Other Key Tools & Frameworks
+- Git – Version control and collaborative development
+- .NET – Building robust, enterprise-grade applications
+- C – System-level programming and IoT integration
 
-### 🚀 Some of my main projects
-- [ARSG Bot](https://github.com/qcarpentier/arsg-bot): a Discord Bot built for classrooms
-- [Lifty](https://github.com/qcarpentier/lifty): a bin tracker who send notifications
+## 🚀 Current Projects
+- [ARSG Bot](https://github.com/qcarpentier/arsg-bot): A Discord bot designed for educational environments, improving classroom management and collaboration
+- [Lifty](https://github.com/qcarpentier/lifty): A smart bin tracking system with notifications, leveraging IoT for smarter waste management
 
 
-### 💡 Goals for 2020
-- Build 20+ projects 
-- Become expert in React & Typescript
+## 🎯 Goals for 2024
+Expand my expertise in cloud computing and microservices architecture
+Contribute more actively to open-source projects and tech communities
+Explore AI/ML integration into full stack applications
+Continue pushing the boundaries of ultra-endurance in my personal life, participating in more 160+km races (100 miles)
 
-### 🌴 Fun facts
-- I'm amazed by almost everything 😲
-- I'm a French native speaker
+## 🌍 Fun Facts
+- Native French speaker, passionate about communication and teaching 🧑‍🏫
+- I run approximately 80 to 120 km every week 🏃‍➡️
 
-### ☕ Get in touch
+## ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/quentincarpentier/">quentincarpentier</a>
-- Twitter: [carpentier_q](https://twitter.com/carpentier_q)
 - Website: [https://qcarpentier.com](https://qcarpentier.com)
-- Discord: [Loosha#2248]()
-
-
----
-
-
-<details>
-  <summary>📈 Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=qcarpentier&show_icons=true&hide_border=true" />
-
-</details>
-
-
----
-
-### 🎧 Spotify Playing 
-[<img src="https://spotify-readme.qcarpentier.vercel.app/api/spotify-playing" alt="Quentin Carpentier Spotify Playing" width="400" />](https://open.spotify.com/user/1180028189)
